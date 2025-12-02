@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "name": "Akash Singh",
+      "email": "akash1234@gmail.com",
+      "sectionId": "5f5c",
+      "enrollmentDate": "2025-11-25",
+      "id": "0cb3"
+    },
+    {
+      "id": "9cbe",
+      "name": "vishnu jaat",
+      "email": "vishnu1234@gmail.com",
+      "sectionId": "c46d",
+      "enrollmentDate": "2025-11-25"
+    }
+  ],
+  "sections": [
+    {
+      "id": "5f5c",
+      "name": "F",
+      "description": "GLA 3rd year"
+    },
+    {
+      "id": "c46d",
+      "name": "O",
+      "description": "GLA 3rd year"
+    }
+  ],
+  "results": [
+    {
+      "id": "bf99",
+      "studentId": "0cb3",
+      "subject": "DAA",
+      "marks": 80,
+      "examDate": ""
+    },
+    {
+      "id": "71ba",
+      "studentId": "0cb3",
+      "subject": "ML",
+      "marks": 93.3,
+      "examDate": ""
+    },
+    {
+      "id": "64a4",
+      "studentId": "0cb3",
+      "subject": "Full Stack",
+      "marks": 80,
+      "examDate": ""
+    },
+    {
+      "id": "8e65",
+      "studentId": "0cb3",
+      "subject": "Quant & Verbal",
+      "marks": 70,
+      "examDate": ""
+    },
+    {
+      "id": "946d",
+      "studentId": "0cb3",
+      "subject": "Agile",
+      "marks": 70,
+      "examDate": ""
+    }
+  ]
+}
